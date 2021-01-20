@@ -1,2 +1,0 @@
-# SystemSoftware
-SystemSoftware exercises
